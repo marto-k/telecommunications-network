@@ -13,13 +13,17 @@ header{
     padding: 0;
     margin: auto;
 }
+#navigation-menu{
+    float: right;
+}
 
 /***********************
  *HOME SECTION
  ***********************/
 
 #home{
-
+padding: 0;
+    margin: auto;
 }
 
 /***********************
@@ -27,7 +31,8 @@ header{
  ***********************/
 
 #about{
-
+padding: 0;
+    margin: auto;
 }
 
 /***********************
@@ -35,7 +40,8 @@ header{
  ***********************/
 
 #news{
-
+padding: 0;
+    margin: auto;
 }
 
 /***********************
@@ -43,6 +49,7 @@ header{
  ***********************/
 
 #contacts{
-
+padding: 0;
+    margin: auto;
 }
 

@@ -15,7 +15,7 @@ header{
 }
 #navigation-menu{
     float: right;
-    padding-top:68px;
+    padding-top:25px;
     padding-right:330px;
     background-color: linear-gradient(to top, black 0%, white 100%);
     background-blend-mode: color-dodge;
@@ -31,7 +31,7 @@ a:hover{
 /***********************
  *HOME SECTION
  ***********************/
-body{
+#home{
 padding: 0;
     margin: auto;
     z-index: 0;

@@ -15,14 +15,18 @@ header{
 }
 #navigation-menu{
     float: right;
-    padding-top:80px;
+    padding-top:68px;
     padding-right:330px;
     background-color: linear-gradient(to top, black 0%, white 100%);
     background-blend-mode: color-dodge;
 }
-a {
+nav a {
   padding:10px 15px;
   background:white;
+}
+a:hover{
+  background-color:transparent;
+  color:white;
 }
 /***********************
  *HOME SECTION

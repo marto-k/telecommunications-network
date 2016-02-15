@@ -20,11 +20,13 @@ header{
     background-color: linear-gradient(to top, black 0%, white 100%);
     background-blend-mode: color-dodge;
 }
-
+a {
+  padding:10px 15px;
+  background:white;
+}
 /***********************
  *HOME SECTION
  ***********************/
-
 body{
 padding: 0;
     margin: auto;

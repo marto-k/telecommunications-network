@@ -31,7 +31,7 @@ a:hover{
 /***********************
  *HOME SECTION
  ***********************/
-#home{
+body{
 padding: 0;
     margin: auto;
     z-index: 0;
@@ -49,6 +49,7 @@ padding: 0;
 #about{
 padding: 0;
     margin: auto;
+    width:89%;
 }
 
 /***********************

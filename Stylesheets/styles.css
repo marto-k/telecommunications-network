@@ -17,17 +17,23 @@ header{
     float: right;
     padding-top:80px;
     padding-right:330px;
+    background-color: linear-gradient(to top, black 0%, white 100%);
+    background-blend-mode: color-dodge;
 }
 
 /***********************
  *HOME SECTION
  ***********************/
 
-#home{
+body{
 padding: 0;
     margin: auto;
     z-index: 0;
-    background-image: url("../assets../backgrounds/pic1.jpg");
+    background-image: url("../Stylesheets/backgrounds/pic1.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100%;
+    width:100%;
 }
 
 /***********************

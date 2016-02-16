@@ -56,7 +56,13 @@ padding: 0;
   overflow: hidden;
   text-overflow: ellipsis;
 }
-
+.about{
+padding: 0;
+    margin: auto;
+    width:89%;
+    background:white;
+ 
+}
 /***********************
  *NEWS SECTION
  ***********************/

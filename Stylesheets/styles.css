@@ -51,6 +51,10 @@ padding: 0;
     margin: auto;
     width:89%;
     background:white;
+  height: 900px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /***********************
